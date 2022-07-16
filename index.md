@@ -1,4 +1,4 @@
-
+layout: default
 <html>
   
 # Kaylee Weatherspoon
