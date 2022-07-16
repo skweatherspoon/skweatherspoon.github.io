@@ -17,7 +17,7 @@
             </div> 
             
 
-### I am seeking a PhD position in Combinatorics/Graph Theory beginning Fall 2023. 
+  <h3> I am seeking a PhD position in Combinatorics/Graph Theory beginning Fall 2023. </h3>
 Here is my <a href=""> CV.</a>
   <br>
 email: skw4@email.sc.edu
