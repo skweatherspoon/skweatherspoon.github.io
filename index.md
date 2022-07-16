@@ -1,5 +1,7 @@
-# Kaylee Weatherspoon
 
+<body>
+
+# Kaylee Weatherspoon
 
 
 <div class="column"> 
@@ -65,6 +67,7 @@ email: skw4@email.sc.edu
  </li> 
   </ul>
 
+</body>
  
  
 
