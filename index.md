@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Kaylee Weatherspoon
 
-You can use the [editor on GitHub](https://github.com/skweatherspoon/skweatherspoon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a rising senior majoring in mathematics (minors: chemistry, French) at the University of South Carolina. My advisor at UofSC is Professor Joshua Cooper. I am currently doing research in discrete geometry under Dr. Cosmin Pohoata in the SUMRY NSF-REU at Yale University. In Spring of 2022, I studied in the Budapest Semesters in Mathematics program. While there, I did research in rigidity theory with a phenomenal team of other undergrads (Henry Simmons, <a href="https://zeyu-zheng.github.io/"> Zeyu Zheng</a>) under Professor Tibor Jordán. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
