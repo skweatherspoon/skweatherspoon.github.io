@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<link href="./assets/jquery-ui.css" rel="stylesheet">
-    <link href="./assets/bootstrap.min.css" rel="stylesheet">
-    <link href="./assets/bootstrap-theme.min.css" rel="stylesheet">
-    <link href="./assets/font-awesome.min.css" rel="stylesheet">
-    <link href="./assets/site.css" rel="stylesheet">
-    <script src="./assets/jquery-1.10.2.min.js"></script>
-
 \<body>
   
 # Kaylee Weatherspoon
@@ -32,7 +25,7 @@ Here is my <a href=""> CV.</a>
   <br>
 email: skw4@email.sc.edu
     
-  ## Research
+  <h2> Research </h2>
   
   <ol type="1">
     <li> Yale SUMRY NSF-REU: Variants of Heilbronn's Triangle Problem </li>
