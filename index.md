@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <body>
 
 # Kaylee Weatherspoon
@@ -69,5 +69,5 @@ email: skw4@email.sc.edu
 
 </body>
  
- 
+</html>
 
