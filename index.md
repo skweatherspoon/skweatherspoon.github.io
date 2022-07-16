@@ -43,12 +43,25 @@ email: skw4@email.sc.edu
   </li>
   <li> I teach mathematics (from business calculus to abstract algebra), chemistry (up to organic chemistry), and french (up to the 300 level) at UofSC's Student Success Center
   </li> 
+    <li>I graded for the Honors section of Discrete Math I in Fall 2021. </li> 
   <li>I gave a talk in the inaugural UofSC Scholar Seminar entitled "Collaborative Problem Solving Through Open Questions in Mathematics" to provide an opportunity for non-math majors to experiment with research mathematics. </li> 
   </ul>
   
   ## Skills
+ 
+  <ul type="cirlce">
+  <li> Languages: English (native), French (proficient), Hungarian (basic) </li>
+  <li> Math tools: LaTeX, Beamer, SageMath </li> 
+  </ul>
   
   ## Extramathematical Hobbies
+   <ul type="cirlce">
+  <li>I'm currently reading <i> The Best of All Possible Worlds: Mathematics and Destiny </i> and <i> The Glory and the Power: The Fundamentalist Challenge to the Modern World </i>. New places feel like home once I find a good used bookstore.
+  </li>
+  <li> Europe turned me into a coffee snob. I'm currently perfecting my Aeropress iced espresso.
+  </li>
+  <li> I'm also a big fan of opportunities to be outside: there are some amazing waterfalls and rivers not far from where I grew up in NC! Here's me on a hike in the Dolomites, the mountain range at the base of the Italian Alps:  </li> 
+  </ul>
 
  
  
