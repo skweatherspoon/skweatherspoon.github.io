@@ -8,11 +8,12 @@
  In the Fall 2022 semester, I am applying to graduate schools and for the NSF-GRFP. I'm also taking my first "official" graduate course (with other graduate students). Advice on any of these pursuits is welcome!
    </p>
   
-<div class="column">
-  <p>
-    
-  </p>  
-  ![vsco_062922](https://user-images.githubusercontent.com/109369229/179338937-5ad8d6c4-1ac6-4a8f-9eb9-a202f6f511d8.jpg)          
+<div class="row">
+   <div class="col-xs-12 col-md-5 col-sm-5">
+      <img title="Kaylee at Yale" style="width:900px" alt="Kaylee at Yale"
+             src="./assets/MIT_pic.jpg">
+            </div> 
+            
 
 ### I am seeking a PhD position in Combinatorics/Graph Theory beginning Fall 2023. 
 Here is my <a href=""> CV.</a>
