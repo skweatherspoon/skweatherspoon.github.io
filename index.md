@@ -1,11 +1,19 @@
 # Kaylee Weatherspoon
 
+<div class="row">
+  <div class="column"></div>
+  
+  <div class="column"></div>
 Hello! I am a rising senior majoring in mathematics (minors: chemistry, French) at the University of South Carolina. My advisor at UofSC is Professor Joshua Cooper. I am currently doing research in discrete geometry under Dr. Cosmin Pohoata in the SUMRY NSF-REU at Yale University. In Spring of 2022, I studied in the Budapest Semesters in Mathematics program. While there, I did research in rigidity theory with a phenomenal team of other undergrads (Henry Simmons, <a href="https://zeyu-zheng.github.io/"> Zeyu Zheng</a>) under Professor Tibor Jordán. 
 
-<b>
-Here is my CV
   
-  <b>
+</div>
+
+
+<br>
+Here is my <a href="https://zeyu-zheng.github.io/"> CV.</a>
+  
+  <br>
 email: skw4@email.sc.edu
 
 ### I am looking for PhD positions in Combinatorics/Graph Theory beginning Fall 2023. 
