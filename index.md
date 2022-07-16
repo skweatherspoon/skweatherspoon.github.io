@@ -22,20 +22,29 @@ email: skw4@email.sc.edu
   ## Research
   
   <ol type="1">
-    <li> beep <\li>
-  <\ol>
+    <li> Yale SUMRY NSF-REU: Variants of Heilbronn's Triangle Problem </li>
+    <li> Budapest Semesters in Mathematics: Rigidity Properties of 4-Regular Graphs </li>
+    <li> Auburn NSF-REU in Discrete Math: (1) A Generalization of Szlam's Lemma, (2) On the Epsilon Chromatic Number of the Plane </li>
+    <li> University of South Carolina: Finite, Separable, Edge-Maximal Unit Distance Graphs </li>
+  </ol>
     
-  ## Coursework
+ ## Coursework
 
   <ul type="circle">
-    <li>my favorite math course I've taken as of Summer 2022 is Discrete and Convex Geometry in Budapest under Professor Gergely Ambrus. This course covered Helly's Theorem, Radon's Theorem, Carathéodory's Theorem, along with a sizable section on incidence problems, including a proof of the Szemerédi-Trotter theorem by my professor, Prof. Lázslo Székely. I also first met the Geometric Erdős-Szekeres theorem and its lovely proof in this course. You can see the theorem and its proof (extracted from Prof. Ambrus' course notes) here. 
+    <li>my favorite math course I've taken as of Summer 2022 is <b>Discrete and Convex Geometry</b> in Budapest under Professor Gergely Ambrus. This course covered Helly's Theorem, Radon's Theorem, Carathéodory's Theorem, along with a sizable section on incidence problems, including a proof of the Szemerédi-Trotter theorem by my professor, Prof. Lázslo Székely. I also first met the Geometric Erdős-Szekeres theorem and its lovely proof in this course. You can see the theorem and its proof (extracted from Prof. Ambrus' course notes) here. 
     </li>
-    <li>in Fall 2021, Professor Michael Filaseta (UofSC) graciously came out of his recent retirement to teach me the majority of the content of his graduate course notes in Number Theory  </li>
-    <li>my other BSM Courses include Research (Tibor Jordán, ELTE, A), Mathematical Problem Solving (Sándor Dobos, A), Measure Theory (Péter Maga, Rényi Institute, B+)</li>
-    <li>my other UofSC courses are listed here with professors and grades parenthesized: Mathematical Foundations of Network Science (Lincoln Lu, A),  Analysis (Ralph Howard, A), Abstract Algebra II (Matt Miller, A), Abstract Algebra I (Matt Miller, A), Discrete Mathematics (Lázsló Székely, A), Vector Analysis (Frank Thorne, A), Linear Algebra (Anton Schep, B+), Transition to Advanced Mathematics (Matt Miller, A).   </li>
+    <li>in Fall 2021, Professor Michael Filaseta (UofSC) graciously came out of his recent retirement to teach me the majority of the content of his graduate course notes in <b>Number Theory</b>  </li>
+    <li>my other math courses are as follows, with my professors and grades parenthesized: <b>Research</b> (Tibor Jordán, ELTE, A), <b>Mathematical Problem Solving </b> (Sándor Dobos, A), <b>Measure Theory</b> (Péter Maga, Rényi Institute, B+), <b>Mathematical Foundations of Network Science</b> (Lincoln Lu, A),  <b>Analysis</b> (Ralph Howard, A), <b>Abstract Algebra II</b> (Matt Miller, A), <b>Abstract Algebra I</b> (Matt Miller, A), <b>Discrete Mathematics</b> (Lázsló Székely, A), <b>Vector Analysis</b> (Frank Thorne, A), <b>Linear Algebra</b> (Anton Schep, B+), <b>Transition to Advanced Mathematics</b> (Matt Miller, A).   </li>
 </ul>
     
-  ## Outreach
+  ## Outreach and Engagement
+  <ul type="cirlce">
+  <li>I am currently the co-chair of the weekly Diversity, Equity, and Inclusion Seminar at the Yale SUMRY REU
+  </li>
+  <li> I teach mathematics (from business calculus to abstract algebra), chemistry (up to organic chemistry), and french (up to the 300 level) at UofSC's Student Success Center
+  </li> 
+  <li>I gave a talk in the inaugural UofSC Scholar Seminar entitled "Collaborative Problem Solving Through Open Questions in Mathematics" to provide an opportunity for non-math majors to experiment with research mathematics. </li> 
+  </ul>
   
   ## Skills
   
