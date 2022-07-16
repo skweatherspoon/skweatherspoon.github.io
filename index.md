@@ -12,7 +12,7 @@
   <p>
     
   </p>  
-           
+  ![vsco_062922](https://user-images.githubusercontent.com/109369229/179338937-5ad8d6c4-1ac6-4a8f-9eb9-a202f6f511d8.jpg)          
 
 ### I am seeking a PhD position in Combinatorics/Graph Theory beginning Fall 2023. 
 Here is my <a href=""> CV.</a>
@@ -58,9 +58,10 @@ email: skw4@email.sc.edu
    <ul type="cirlce">
   <li>I'm currently reading <i> The Best of All Possible Worlds: Mathematics and Destiny </i> and <i> The Glory and the Power: The Fundamentalist Challenge to the Modern World </i>. New places feel like home once I find a good used bookstore.
   </li>
-  <li> Europe turned me into a coffee snob. I'm currently perfecting my Aeropress iced espresso.
+  <li> I'm perfecting my Aeropress iced espresso. My time in Europe may have turned me into a coffee snob...
   </li>
-  <li> I'm also a big fan of opportunities to be outside: there are some amazing waterfalls and rivers not far from where I grew up in NC! Here's me on a hike in the Dolomites, the mountain range at the base of the Italian Alps:  </li> 
+  <li> I'm also a big fan of opportunities to be outside: there are some amazing waterfalls and rivers not far from where I grew up in NC! Here's me on a hike in the Dolomites, the mountain range at the base of the Italian Alps:
+ </li> 
   </ul>
 
  
