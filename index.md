@@ -34,7 +34,7 @@ email: skw4@email.sc.edu
     <li> University of South Carolina: Finite, Separable, Edge-Maximal Unit Distance Graphs </li>
   </ol>
     
- ## Coursework
+ <h2> Coursework </h2>
 
   <ul type="circle">
     <li>my favorite math course I've taken as of Summer 2022 is <b>Discrete and Convex Geometry</b> in Budapest under Professor Gergely Ambrus. This course covered Helly's Theorem, Radon's Theorem, Carathéodory's Theorem, along with a sizable section on incidence problems, including a proof of the Szemerédi-Trotter theorem by my professor, Prof. Lázslo Székely. I also first met the Geometric Erdős-Szekeres theorem and its lovely proof in this course. You can see the theorem and its proof (extracted from Prof. Ambrus' course notes) here. 
@@ -43,7 +43,7 @@ email: skw4@email.sc.edu
     <li>my other math courses are as follows, with my professors and grades parenthesized: <b>Research</b> (Tibor Jordán, ELTE, A), <b>Mathematical Problem Solving </b> (Sándor Dobos, A), <b>Measure Theory</b> (Péter Maga, Rényi Institute, B+), <b>Mathematical Foundations of Network Science</b> (Lincoln Lu, A),  <b>Analysis</b> (Ralph Howard, A), <b>Abstract Algebra II</b> (Matt Miller, A), <b>Abstract Algebra I</b> (Matt Miller, A), <b>Discrete Mathematics</b> (Lázsló Székely, A), <b>Vector Analysis</b> (Frank Thorne, A), <b>Linear Algebra</b> (Anton Schep, B+), <b>Transition to Advanced Mathematics</b> (Matt Miller, A).   </li>
 </ul>
     
-  ## Outreach and Engagement
+  <h2> Outreach and Engagement </h2>
   <ul type="cirlce">
   <li>I am currently the co-chair of the weekly Diversity, Equity, and Inclusion Seminar at the Yale SUMRY REU
   </li>
@@ -53,14 +53,14 @@ email: skw4@email.sc.edu
   <li>I gave a talk in the inaugural UofSC Scholar Seminar entitled "Collaborative Problem Solving Through Open Questions in Mathematics" to provide an opportunity for non-math majors to experiment with research mathematics. </li> 
   </ul>
   
-  ## Skills
+  <h2> Skills </h2>
  
   <ul type="cirlce">
   <li> Languages: English (native), French (proficient), Hungarian (basic) </li>
   <li> Math tools: LaTeX, Beamer, SageMath </li> 
   </ul>
   
-  ## Extramathematical Hobbies
+  <h2> Extramathematical Hobbies </h2>
    <ul type="cirlce">
   <li>I'm currently reading <i> The Best of All Possible Worlds: Mathematics and Destiny </i> and <i> The Glory and the Power: The Fundamentalist Challenge to the Modern World </i>. New places feel like home once I find a good used bookstore.
   </li>
