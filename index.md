@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Blogging Like a Hacker
 ---
   
 # Kaylee Weatherspoon
