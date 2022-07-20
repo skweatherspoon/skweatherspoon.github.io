@@ -1,5 +1,3 @@
-
-  
 # Kaylee Weatherspoon
 
 
