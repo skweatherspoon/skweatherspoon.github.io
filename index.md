@@ -1,4 +1,4 @@
-<h1> Kaylee Weatherspoon
+<h1> Kaylee Weatherspoon </h1>
 
 <html>
 <div class="column"> 
